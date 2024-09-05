@@ -62,9 +62,9 @@ The outline areas that I want to continue focusing on in future projects. are ad
 
 ## Author
 
-- Website - [Joshua Michael Utik](https://www.your-site.com)
-- Frontend Mentor - [Joshua Utik](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@joshua_utik](https://www.twitter.com/yourusername)
+- Website - [Joshua Michael Utik](https://joshutik.github.io/qr-code/)
+- Frontend Mentor - [Joshua Utik](https://www.frontendmentor.io/profile/joshutik)
+- Twitter - [@joshua_utik](https://www.twitter.com/joshua_utik)
 
 
 
