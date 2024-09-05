@@ -28,8 +28,8 @@ Here is a screenshot of your solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://qrcode-rho-ruddy.vercel.app/)
+- Live Site URL: [Add live site URL here](https://qrcode-rho-ruddy.vercel.app/)
 
 ## My process
 
@@ -62,7 +62,7 @@ The outline areas that I want to continue focusing on in future projects. are ad
 
 ## Author
 
-- Website - [Joshua Michael Utik](https://joshutik.github.io/qr-code/)
+- Website - [Joshua Michael Utik](https://qrcode-rho-ruddy.vercel.app//)
 - Frontend Mentor - [Joshua Utik](https://www.frontendmentor.io/profile/joshutik)
 - Twitter - [@joshua_utik](https://www.twitter.com/joshua_utik)
 
